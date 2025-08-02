@@ -1,7 +1,4 @@
-# Paddy-disease-classifier
-Of course\! Here is a comprehensive README file for your GitHub repository based on the provided Jupyter Notebook, complete with a detailed workflow chart.
 
------
 
 # Paddy Disease Classification using PyTorch and ResNet-18
 
